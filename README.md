@@ -1,1 +1,1 @@
-# network-of-dots
+# network-of-particles
